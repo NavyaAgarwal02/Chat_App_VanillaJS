@@ -11,7 +11,7 @@
 
 ## Getting Started
 
-- Clone the repository: `git clone https://github.com/NavyaAgarwal02/Chat_App_VanillaJS'
+- Clone the repository: `git clone https://github.com/NavyaAgarwal02/Chat_App_Vanilla_JS'
 - Open the project in your favorite code editor
 - Run the app by opening index.html in your browser
 
