@@ -40,7 +40,7 @@
 
 ## Live Demo
 
-Check out the live demo [here](https://your-app-name.herokuapp.com).
+Check out the live demo [here](https://chat-app-vanilla-ouyfia30y-navya-agarwal-projects.vercel.app/).
 
 ## Contributing
 
