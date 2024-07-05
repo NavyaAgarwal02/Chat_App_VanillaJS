@@ -28,10 +28,22 @@
 - CSS3
 - Web Storage API (for local storage)
 
+## Screenshots
+
+![Screenshot](screenshot.png)
+
 ## Todo
 
 - Add more features (e.g. file sharing, video calls)
 - Improve performance optimization
 - Enhance user interface
+
+## Live Demo
+
+Check out the live demo [here](https://your-app-name.herokuapp.com).
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request.
 
 
